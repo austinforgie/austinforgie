@@ -6,12 +6,27 @@
   👋 I'm Austin
 </h1>
 
-<h3 align="center">A lifelong student from Canada</h3>
+<h3 align="center">
+  A lifelong student from Canada
+</h3>
 
 <br>
 
-- 🔭 I’m currently working on **[Full Stack Open](https://github.com/austinforgie/full-stack-open)**
-- 💬 Connect with me: **[LinkedIn](https://ca.linkedin.com/in/austin-forgie)**
+### 🔭 I’m currently working on:
+
+- 🚘 [SafeJourney](https://github.com/austinforgie/safe-journey):
+  - **Description:** A full-stack predictive collision service that leverages supervised learning to anticipate fatal collisions.
+  - **Purpose:** To consolidate academic knowledge.
+
+- 🛠️ [ProLog](https://github.com/profydev/prolog-app-austinforgie):
+  - **Description:** An error logging and monitoring tool.
+  - **Purpose:** To gain practical experience with React, tooling, and workflows using an existing codebase.
+
+<br>
+
+### 💬 Connect with me on **[LinkedIn](https://ca.linkedin.com/in/austinforgie)**
+
+<br>
 
 ### 🛠️ Technologies & languages I have experience with:
 
